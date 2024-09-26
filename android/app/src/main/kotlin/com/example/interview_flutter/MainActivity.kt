@@ -1,4 +1,4 @@
-package com.example.interview_flutter
+package com.example.weather_foremost
 
 import io.flutter.embedding.android.FlutterActivity
 
