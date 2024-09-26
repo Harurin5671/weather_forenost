@@ -1,3 +1,23 @@
+# Detalles de la prueba
+
+Hola, soy Frank Santos, desarrollador responsable de esta prueba. Quiero agradecer la oportunidad de participar en este proceso de selección.
+
+He dejado varias API Keys en el archivo de constantes, ya que las solicitudes pueden saturarse rápidamente. Esto garantizará que no haya inconvenientes durante las pruebas. Además, si deseas generar un APK y probar la aplicación en dispositivos Android, todos los permisos y configuraciones necesarias ya están listos para su correcto funcionamiento.
+
+### TECNOLOGÍAS
+-   [Flutter](https://flutter.dev/)
+-   [Dart](https://dart.dev/)
+-   [Android Studio](https://developer.android.com/studio)
+-   [Visual Studio Code](https://code.visualstudio.com/)
+-   [Git](https://git-scm.com/)
+-   [flutter-Provider](https://pub.dev/packages/provider)
+-   [FLUTTER-HTTP](https://pub.dev/packages/http)
+
+## Contacto y Redes
+-   [Porfolio](https://frank-dev.netlify.app/)
+-   [GitHub](https://github.com/Harurin5671)
+-   [LinkedIn](https://www.linkedin.com/in/frank-santos-dev/)
+
 # Basic Flutter application test
 
 In this test, it is expected that you can build a simple Android application with good programming practices and enough validations to avoid any inconvenience to the end user.
